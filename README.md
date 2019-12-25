@@ -15,6 +15,7 @@ Library/Framework i use for this project:
 [Express](https://expressjs.com/)<br />
 [Passport](http://www.passportjs.org/)<br />
 [Node_Redis](https://github.com/NodeRedis/node_redis)<br />
+[MongoDB ATLAS](https://www.mongodb.com/cloud/atlas)<br />
 
 Deployed using:
 [NGINX](https://www.nginx.com/)<br />
